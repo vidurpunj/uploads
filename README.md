@@ -1,4 +1,4 @@
-<?php
+//<?php
 if (isset($_FILES["file"]["name"])) {
 
     $name = $_FILES["file"]["name"];
